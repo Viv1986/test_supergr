@@ -45,6 +45,7 @@ if [ ! -d "/var/www/html/.git" ]; then
      fi
    fi
    chown -Rf nginx.nginx /var/www/html
+   chown nginx.nginx /var/logs/hosts
  fi
 fi
 

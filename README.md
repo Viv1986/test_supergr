@@ -1,1 +1,2 @@
-"# test_supergr" 
+"# test_supergr"  
+autodeployer deploy.sh 
